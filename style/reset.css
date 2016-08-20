@@ -1,0 +1,15 @@
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}
+html,body{font: 12px/1.5 "Microsoft Yahei" 微软雅黑; }
+img{border:none;}
+li{list-style: none}
+/* 去掉input默认样式 */
+input,select,textarea{outline:none;border:none;}
+textarea{resize:none;}
+a{text-decoration: none;color:#656565;}
+/* 清除浮动 */
+.clearfix:after{content:"";display:table;clear:both;}
+.clearfix{zoom:1;}
+.fl{float:left;}
+.fr{float:right;}
+
+.hot,
